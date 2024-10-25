@@ -17,6 +17,6 @@
     <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</div><br><br>
+</div><br>
 
 #### Transformando ideias em código, uma linha por vez. Apaixonado por resolver problemas e construir soluções que fazem a diferença.
