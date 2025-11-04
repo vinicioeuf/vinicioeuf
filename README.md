@@ -4,11 +4,11 @@
 
 <br>
 
-Desenvolvedor de Software com foco em criar aplicações eficientes e escaláveis. Estou sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
+Desenvolvedor de FullStack com foco em criar aplicações eficientes e escaláveis. Estou sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
 
 - 🌱 Atualmente aprendendo mais sobre Arquitetura de Microserviços e Testes Automatizados.
 - 💬 Fique à vontade para me chamar para falar sobre tecnologia, desenvolvimento de software ou para colaborar em projetos open source.
-- 📫 Como me encontrar: **vinicio.eufrazio@email.com** (ou pelas redes abaixo)
+- 📫 Como me encontrar: **vinicioseufrazio3@gmail.com** (ou pelas redes abaixo)
 
 ---
 
